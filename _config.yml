@@ -1,0 +1,16 @@
+theme: jekyll-theme-leap-day
+title: Tansu
+description: Десерты для вас
+author:
+  name: Tansu
+  email: t.gizzatullina@yandex.ru
+  
+copyright: © 2020
+baseurl: ""
+
+header_pages:
+ - about.md
+
+excerpt_separator: "<!--excerpt-->"
+plugins:
+  - jekyll-sitemap
